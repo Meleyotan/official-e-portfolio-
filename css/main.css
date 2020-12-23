@@ -7,7 +7,6 @@ nav{padding-bottom: 1%;}
 nav ul{list-style: none;}
 nav ul li{display: inline;}
 nav ul li a{margin-right: 20px;}
-a#brown{color: #c98546;}
 button{border: none; background-color: #c98546; color: white; border-radius: 100px; padding: 10px 15px 10px 15px;}
 span#button{font-size: 10px; font-weight: bold; letter-spacing: 2px;}
 p#name{font-size: 200%; color: white;margin: 0;text-align: center;}
